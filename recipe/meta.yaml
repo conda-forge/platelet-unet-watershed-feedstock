@@ -41,6 +41,7 @@ test:
   requires:
     - pip
     - python {{ python_min }}
+    - pyqt
 
 about:
   home: https://github.com/jni/platelet-unet-watershed
